@@ -1,5 +1,29 @@
 # SAP Convertional AI Package Tracking ChatBot
 
+Bot project requirements: 
+
+•	Customers can track a package
+
+•	Customers can price a package
+
+•	The customer will indicate that they want to track a parcel
+
+•	The customer will provide the package number
+
+•	The customer will confirm they want to track the package
+
+•	The bot will call an API to retrieve package info and display it
+
+•	The customer will indicate they want to price a package
+
+•	The customer will provide the address (Turkey only) and the size of the package
+
+•	The bot will check that the address is in Turkey, and then call an API to retrieve a map of the location
+
+•	The bot will display the map, and provide a price for the package based on its size
+
+<br/> 
+
     //  Web page
 <img width="338" alt="image3" src="https://user-images.githubusercontent.com/89788024/154767684-33296fa5-ee36-4cd2-9f27-a3bf18fb427a.png">
 
