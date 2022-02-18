@@ -1,6 +1,6 @@
 # SAP Convertional AI Package Tracking ChatBot
 
-Bot project requirements: 
+**Bot project requirements:** 
 
 •	Customers can track a package
 
